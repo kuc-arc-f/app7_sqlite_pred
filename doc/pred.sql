@@ -1,0 +1,11 @@
+
+--
+CREATE TABLE pred(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  mdate TIMESTAMP,
+  hnum INTEGER,
+  pred REAL,
+  uid INTEGER,
+  up_date TIMESTAMP
+);
+
