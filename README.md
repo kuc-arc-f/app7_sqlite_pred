@@ -13,5 +13,7 @@ Vue.js + node/express + sqlite3  chart.js , predict display sample
 ***
 ### more
 
+https://knaka0209.hatenablog.com/entry/vue_express_11
+
 ***
 
